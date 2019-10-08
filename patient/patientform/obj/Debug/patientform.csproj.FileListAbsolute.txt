@@ -1,0 +1,11 @@
+D:\engineer program（course design）\patientform\patientform\bin\Debug\patientform.exe.config
+D:\engineer program（course design）\patientform\patientform\bin\Debug\patientform.exe
+D:\engineer program（course design）\patientform\patientform\bin\Debug\patientform.pdb
+D:\engineer program（course design）\patientform\patientform\obj\Debug\patientform.csprojResolveAssemblyReference.cache
+D:\engineer program（course design）\patientform\patientform\obj\Debug\patientform.Form1.resources
+D:\engineer program（course design）\patientform\patientform\obj\Debug\patientform.Form2.resources
+D:\engineer program（course design）\patientform\patientform\obj\Debug\patientform.Form3.resources
+D:\engineer program（course design）\patientform\patientform\obj\Debug\patientform.Properties.Resources.resources
+D:\engineer program（course design）\patientform\patientform\obj\Debug\patientform.csproj.GenerateResource.Cache
+D:\engineer program（course design）\patientform\patientform\obj\Debug\patientform.exe
+D:\engineer program（course design）\patientform\patientform\obj\Debug\patientform.pdb
