@@ -1,0 +1,9 @@
+D:\engineer program（course design）\askwinform\askwinform\bin\Debug\askwinform.exe.config
+D:\engineer program（course design）\askwinform\askwinform\bin\Debug\askwinform.exe
+D:\engineer program（course design）\askwinform\askwinform\bin\Debug\askwinform.pdb
+D:\engineer program（course design）\askwinform\askwinform\obj\Debug\askwinform.csprojResolveAssemblyReference.cache
+D:\engineer program（course design）\askwinform\askwinform\obj\Debug\askwinform.Form1.resources
+D:\engineer program（course design）\askwinform\askwinform\obj\Debug\askwinform.Properties.Resources.resources
+D:\engineer program（course design）\askwinform\askwinform\obj\Debug\askwinform.csproj.GenerateResource.Cache
+D:\engineer program（course design）\askwinform\askwinform\obj\Debug\askwinform.exe
+D:\engineer program（course design）\askwinform\askwinform\obj\Debug\askwinform.pdb
